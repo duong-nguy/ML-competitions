@@ -1,2 +1,2 @@
-# ML-competition
-Machine Learning competition I participated in over the years
+# ML-competitions
+Machine Learning competitions I participated in over the years
