@@ -7,9 +7,9 @@ We expect all participants to take on this challenge and develop new technologie
 
 ## Data Overview
 
-    The Sentinel-2 image contains information on 12 bands and includes the following bands
-    'B1', 'B2', 'B3', 'B4', 'B5', 'B6', 'B7', 'B8', 'B8A', 'B9', 'B11', 'B12'
-    The images have been processed to mask clouds for Sentinel-2 images from 2022/1/1 to 2023/12/31, and the median of all images is used as the image for that location.
+The Sentinel-2 image contains information on 12 bands and includes the following bands
+'B1', 'B2', 'B3', 'B4', 'B5', 'B6', 'B7', 'B8', 'B8A', 'B9', 'B11', 'B12'
+The images have been processed to mask clouds for Sentinel-2 images from 2022/1/1 to 2023/12/31, and the median of all images is used as the image for that location.
 ## Evaluation method
 
 The f1-score is used for the evaluation method.
